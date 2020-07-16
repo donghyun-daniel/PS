@@ -1,0 +1,5 @@
+A,B=input().split()
+A=''.join(reversed(A))
+B=''.join(reversed(B))
+ans=max(A, B)
+print(ans)
