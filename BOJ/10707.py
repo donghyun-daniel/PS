@@ -1,0 +1,6 @@
+A=int(input())
+B=int(input())
+C=int(input())
+D=int(input())
+P=int(input())
+print(min(A*P, B+D*max(P-C, 0)))
