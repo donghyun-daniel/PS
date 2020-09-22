@@ -1,16 +1,21 @@
-import timeit
-start=timeit.default_timer()
 def solution(n):
-    l=[[i+1] for i in range(n)]
-    val=n+1
-    while n:
-        n-=1
-        l[-1]+=[l[-1][0] for i in range(n)]
-        for i in reversed(range((n-1)):
-
-
-    print(l)
-    return l
+    l = [[0] * (i+1) for i in range(n)]
+    x, y = -1, 0
+    val = 1
+    for i in range(n):
+        for j in range(i, n):
+            if i % 3 == 0:
+                x += 1
+            elif i % 3 == 1:
+                y += 1
+            elif i % 3 == 2:
+                x -= 1
+                y -= 1
+            l[x][y] = val
+            val += 1
+    ans=[]
+    for i in l:
+        ans+=i
+    return ans
 
 solution(4)
-print(f"working time : {timeit.default_timer()-start:.8f}")
