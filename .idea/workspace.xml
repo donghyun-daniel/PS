@@ -28,8 +28,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+<<<<<<< Updated upstream
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BOJ/11003.py" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4_party_project/nlp" />
+>>>>>>> Stashed changes
   </component>
   <component name="RunManager">
     <configuration name="2110" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -65,6 +69,7 @@
     </task>
     <servers />
   </component>
+<<<<<<< Updated upstream
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -76,5 +81,28 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+=======
+  <component name="WindowStateProjectService">
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1617004814252">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1617004814252" />
+    <state width="1348" height="135" key="GridCell.Tab.0.bottom" timestamp="1613481121919">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="135" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1613481121919" />
+    <state width="1348" height="135" key="GridCell.Tab.0.center" timestamp="1613481121919">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="135" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1613481121919" />
+    <state width="1348" height="135" key="GridCell.Tab.0.left" timestamp="1613481121919">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="135" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1613481121919" />
+    <state width="1348" height="135" key="GridCell.Tab.0.right" timestamp="1613481121919">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1348" height="135" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1613481121919" />
+>>>>>>> Stashed changes
   </component>
 </project>
