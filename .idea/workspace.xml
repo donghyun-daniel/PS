@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19da5f85-ce05-494f-9e20-736899b66fd0" name="Default Changelist" comment="" />
+    <list default="true" id="19da5f85-ce05-494f-9e20-736899b66fd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BOJ/11003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/1202.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/2096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/1717.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/1717.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,22 +30,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Pygame/Unity_End.py" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BOJ/11003.py" />
   </component>
   <component name="RunManager">
-    <configuration name="boxhead" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="2096" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Pygame" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Pygame/boxhead.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2096.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,46 +67,15 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="140" y="91" width="1086" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608188178334">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="140" y="91" width="1086" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1608188178334" />
-    <state x="466" y="204" key="FileChooserDialogImpl" timestamp="1608193629567">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="466" y="204" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1608193629567" />
-    <state width="1348" height="227" key="GridCell.Tab.0.bottom" timestamp="1608644172566">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1608644172566" />
-    <state width="1348" height="227" key="GridCell.Tab.0.center" timestamp="1608644172566">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1608644172566" />
-    <state width="1348" height="227" key="GridCell.Tab.0.left" timestamp="1608644172566">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1608644172566" />
-    <state width="1348" height="227" key="GridCell.Tab.0.right" timestamp="1608644172566">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1608644172566" />
-    <state width="1348" height="281" key="GridCell.Tab.1.bottom" timestamp="1608125787728">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="281" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1608125787728" />
-    <state width="1348" height="281" key="GridCell.Tab.1.center" timestamp="1608125787728">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="281" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1608125787728" />
-    <state width="1348" height="281" key="GridCell.Tab.1.left" timestamp="1608125787728">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="281" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1608125787728" />
-    <state width="1348" height="281" key="GridCell.Tab.1.right" timestamp="1608125787728">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="281" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1608125787728" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
