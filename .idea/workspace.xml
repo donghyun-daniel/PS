@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19da5f85-ce05-494f-9e20-736899b66fd0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ/2110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/자동완성.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/15685.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/17144.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,13 +30,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
 <<<<<<< Updated upstream
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< Updated upstream
     <property name="last_opened_file_path" value="$PROJECT_DIR$/BOJ/11003.py" />
 =======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../4_party_project/nlp" />
 >>>>>>> Stashed changes
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4_party_project" />
+>>>>>>> Stashed changes
   </component>
   <component name="RunManager">
-    <configuration name="2110" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="17144" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +52,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/2110.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/17144.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
