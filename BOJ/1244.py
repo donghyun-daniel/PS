@@ -1,28 +1,19 @@
-n = int(input())
-l = [9] + list(map(int, input().split()))
-
+N = int(input())
+s = [0] + list(input().split())
 for _ in range(int(input())):
-    s, num = map(int, input().split())
-    if s == 1: # 남
-        while num <= n:
-            l[num] = 0 if l[num] else 1
-            num += num
-
-    else: # 여
-        cand = [num]
-        for i in range(1, n//2):
-            if 0 < num - i <= n and 0 < num + i <= n:
-                if l[num - i] == l[num + i]:
-                    cand.append(num - i)
-                    cand.append(num + i)
-                else:
-                    break
+    sex, num = map(int, input().split())
+    if sex == 1: # 남자
+        for i in range(num, N + 1, num):
+            s[i] = "0" if s[i] == "1" else "1"
+    else: # 여자
+        tmp = 0
+        for i in range(1, N):
+            if 0 < num-i < N+1 and 0 < num+i < N+1 and s[num-i] == s[num+i]:
+                tmp = i
             else:
                 break
-
-        for c in cand:
-            l[c] = 0 if l[c] else 1
-
-l = l[1:]
-for i in range(0, len(l), 20):
-    print(*l[i:i+20])
+        for i in range(num-tmp, num+tmp+1):
+            s[i] = "0" if s[i] == "1" else "1"
+s = s[1:]
+for i in range(0, N, 20):
+    print(' '.join(s[i:i+20]))

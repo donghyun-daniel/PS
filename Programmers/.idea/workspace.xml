@@ -36,7 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BOJ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager">
     <configuration name="P3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -83,31 +83,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="140" y="91" width="1086" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620911743561">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="140" y="91" width="1086" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1620911743561" />
-    <state x="466" y="204" key="FileChooserDialogImpl" timestamp="1622026568299">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="466" y="204" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1622026568299" />
-    <state width="1348" height="227" key="GridCell.Tab.0.bottom" timestamp="1620913434853">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1620913434853" />
-    <state width="1348" height="227" key="GridCell.Tab.0.center" timestamp="1620913434853">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1620913434853" />
-    <state width="1348" height="227" key="GridCell.Tab.0.left" timestamp="1620913434853">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1620913434853" />
-    <state width="1348" height="227" key="GridCell.Tab.0.right" timestamp="1620913434853">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1348" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1620913434853" />
   </component>
 </project>
